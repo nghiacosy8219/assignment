@@ -1,0 +1,16 @@
+tr, td, th {
+    width: 300px;
+    border: 1px solid black;
+    padding: 10px 20px;
+}
+button{
+    width: 50%;
+    cursor: pointer;
+}
+h1, form, table{
+    text-align: center;
+    margin: 0px auto;
+}
+input{
+    margin: 5px;
+}
